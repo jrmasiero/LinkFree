@@ -1,0 +1,17 @@
+{
+  "name": "José Rodolfo Masiero",
+  "type": "personal",
+  "bio": "Innovation Manager / XR Especialist / Data Scientist / Creative Technologist / Machine Learning practitioner",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/jrmasiero",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/jrmasiero/",
+      "icon": "FaInstagram"
+    }
+  ]
+}
